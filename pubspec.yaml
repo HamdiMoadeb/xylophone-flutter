@@ -11,6 +11,8 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
+  english_words: ^3.1.5
+  audioplayers: ^0.14.0
 
 dev_dependencies:
   flutter_test:
@@ -21,5 +23,11 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/
+    - assets/note1.wav
+    - assets/note2.wav
+    - assets/note3.wav
+    - assets/note4.wav
+    - assets/note5.wav
+    - assets/note6.wav
+    - assets/note7.wav
 
